@@ -5,6 +5,7 @@ import About from "./home_elements/About.vue";
 import WhyUs from "./home_elements/WhyUs.vue";
 import Skills from "./home_elements/Skills.vue";
 import Service from "./home_elements/Service.vue";
+import Cta from "./home_elements/Cta.vue";
 import Portfolio from "./home_elements/Portfolio.vue";
 import Team from "./home_elements/Team.vue";
 import Pricing from "./home_elements/Pricing.vue";
